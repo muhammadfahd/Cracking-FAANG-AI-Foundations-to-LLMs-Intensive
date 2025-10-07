@@ -13,7 +13,7 @@ Each folder represents a topic or day:
 - **Reflections** → what I learned and how it connects to real-world AI
 
 ## Daily Progress
-Check [`progress_log.md`](./progress_log.md) for my day-by-day updates.
+Check [`progress_log.md`](./progress.md) for my day-by-day updates.
 
 ## 🌐 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/mfahadbashir/)
